@@ -2,6 +2,6 @@
 
 ## Team
 
-| Name Surname (JL)       | GUID                                     |
+| Name Surname (initials) | GUID                                     |
 | ----------------------- | ---------------------------------------- |
-| Joris Loit              | `{c5fa2846-a787-40ea-bb5e-df738b9991c6}` |
+| Joris Loit  (JL)        | `{c5fa2846-a787-40ea-bb5e-df738b9991c6}` |
